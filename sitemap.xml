@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/projects/</loc>
+    <loc>https://sischreiber.com/projects/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://sischreiber.com/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://sischreiber.com/posts/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/the-advantages-of-declarative-user-stories/</loc>
+    <loc>https://sischreiber.com/posts/the-advantages-of-declarative-user-stories/</loc>
     <lastmod>2022-03-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/what-they-dont-tell-you-about-headless-cms/</loc>
+    <loc>https://sischreiber.com/posts/what-they-dont-tell-you-about-headless-cms/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/how-much-a-sprint-costs/</loc>
+    <loc>https://sischreiber.com/posts/how-much-a-sprint-costs/</loc>
     <lastmod>2021-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/how-to-create-a-portfolio-website/</loc>
+    <loc>https://sischreiber.com/posts/how-to-create-a-portfolio-website/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/product-backlog-guidelines-and-best-practices/</loc>
+    <loc>https://sischreiber.com/posts/product-backlog-guidelines-and-best-practices/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/more-than-data/</loc>
+    <loc>https://sischreiber.com/posts/more-than-data/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/8-algorithms-to-build-machine-learning-products/</loc>
+    <loc>https://sischreiber.com/posts/8-algorithms-to-build-machine-learning-products/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/a-beginners-guide-to-ai-product-management/</loc>
+    <loc>https://sischreiber.com/posts/a-beginners-guide-to-ai-product-management/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/how-to-measure-ai-product-performance-the-right-way/</loc>
+    <loc>https://sischreiber.com/posts/how-to-measure-ai-product-performance-the-right-way/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://sischreiber.com/about/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://sischreiber.com/categories/</loc>
   </url><url>
-    <loc>https://example.org/data/</loc>
+    <loc>https://sischreiber.com/data/</loc>
   </url><url>
-    <loc>https://example.org/imprint/</loc>
+    <loc>https://sischreiber.com/imprint/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://sischreiber.com/tags/</loc>
   </url>
 </urlset>

@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Simon Schreiber | Product Management Consultant</title>
-    <link>https://example.org/</link>
+    <link>https://sischreiber.com/</link>
     <description>Recent content on Simon Schreiber | Product Management Consultant</description>
     <image>
       <title>Simon Schreiber | Product Management Consultant</title>
-      <url>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://example.org/projects/</link>
+      <link>https://sischreiber.com/projects/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/</guid>
+      <guid>https://sischreiber.com/projects/</guid>
       <description>My freelance projects since 2015:</description>
     </item>
     <item>
       <title>The Advantages of Declarative Over Imperative User Stories</title>
-      <link>https://example.org/posts/the-advantages-of-declarative-user-stories/</link>
+      <link>https://sischreiber.com/posts/the-advantages-of-declarative-user-stories/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/the-advantages-of-declarative-user-stories/</guid>
+      <guid>https://sischreiber.com/posts/the-advantages-of-declarative-user-stories/</guid>
       <description>&lt;p&gt;Mind the Product published my article about declarative instead of imperative user stories. In summary, it is about how the declarative style has a positive impact on team collaboration and ultimately on the product.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&#34;&gt;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Headless CMS Pitfalls</title>
-      <link>https://example.org/posts/what-they-dont-tell-you-about-headless-cms/</link>
+      <link>https://sischreiber.com/posts/what-they-dont-tell-you-about-headless-cms/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/what-they-dont-tell-you-about-headless-cms/</guid>
+      <guid>https://sischreiber.com/posts/what-they-dont-tell-you-about-headless-cms/</guid>
       <description>&lt;p&gt;Headless CMS are great, especially in a cloud native stack. As is often the case, vendors&amp;rsquo; product marketing only mentions the advantages. After two headless CMS projects, I have summarized the pitfalls to watch out for on HackerNoon:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&#34;&gt;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Much a Sprint Costs</title>
-      <link>https://example.org/posts/how-much-a-sprint-costs/</link>
+      <link>https://sischreiber.com/posts/how-much-a-sprint-costs/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/how-much-a-sprint-costs/</guid>
+      <guid>https://sischreiber.com/posts/how-much-a-sprint-costs/</guid>
       <description>&lt;p&gt;Sprints in Scrum need to be planned conscientiously. The personnel costs of an average sprint are easily in the five-digit range. Published on the Product Coalition, one of the largest product management communities:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://productcoalition.com/the-economics-of-sprint-planning-b20082d5e24e&#34;&gt;https://productcoalition.com/the-economics-of-sprint-planning-b20082d5e24e&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Create a Portfolio Website: A Step-by-Step Process With Examples</title>
-      <link>https://example.org/posts/how-to-create-a-portfolio-website/</link>
+      <link>https://sischreiber.com/posts/how-to-create-a-portfolio-website/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/how-to-create-a-portfolio-website/</guid>
+      <guid>https://sischreiber.com/posts/how-to-create-a-portfolio-website/</guid>
       <description>&lt;p&gt;How I built my previous portfolio website with Hugo static site generator and hosted it on GitHub. The nice thing about this setup is that there are no costs other than the domain. My site looks different now but the setup is identical:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/the-kickstarter/how-to-create-a-product-portfolio-website-with-hugo-and-github-28daa950939c&#34;&gt;https://medium.com/the-kickstarter/how-to-create-a-product-portfolio-website-with-hugo-and-github-28daa950939c&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Product Backlog: Guidelines and Best Practices</title>
-      <link>https://example.org/posts/product-backlog-guidelines-and-best-practices/</link>
+      <link>https://sischreiber.com/posts/product-backlog-guidelines-and-best-practices/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/product-backlog-guidelines-and-best-practices/</guid>
+      <guid>https://sischreiber.com/posts/product-backlog-guidelines-and-best-practices/</guid>
       <description>&lt;p&gt;The best practices I have acquired over time for setting up and managing a product backlog. Published on &amp;ldquo;Bootcamp&amp;rdquo;, a collection of resources and opinion pieces about UX, UI and product management on medium.com:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&#34;&gt;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Than Data: How to Understand and Measure AI Products</title>
-      <link>https://example.org/posts/more-than-data/</link>
+      <link>https://sischreiber.com/posts/more-than-data/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/more-than-data/</guid>
+      <guid>https://sischreiber.com/posts/more-than-data/</guid>
       <description>&lt;p&gt;Written before the GenAI boom with a focus on quantifying AI product development. Published on Outvise, one of the leading marketplaces for business tech experts present in more than 40 countries:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.outvise.com/how-understand-and-measure-ai-products/&#34;&gt;https://blog.outvise.com/how-understand-and-measure-ai-products/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>8 Algorithms to Build Machine Learning Products</title>
-      <link>https://example.org/posts/8-algorithms-to-build-machine-learning-products/</link>
+      <link>https://sischreiber.com/posts/8-algorithms-to-build-machine-learning-products/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/8-algorithms-to-build-machine-learning-products/</guid>
+      <guid>https://sischreiber.com/posts/8-algorithms-to-build-machine-learning-products/</guid>
       <description>&lt;p&gt;For many, mathematical statistics was a dry subject matter at school and university. Without reference to reality. Well, then AI/machine learning products came along and linear regression suddenly became fun:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&#34;&gt;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Beginners Guide to AI Product Management</title>
-      <link>https://example.org/posts/a-beginners-guide-to-ai-product-management/</link>
+      <link>https://sischreiber.com/posts/a-beginners-guide-to-ai-product-management/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/a-beginners-guide-to-ai-product-management/</guid>
+      <guid>https://sischreiber.com/posts/a-beginners-guide-to-ai-product-management/</guid>
       <description>&lt;p&gt;Written before the market entry of ChatGTP and the subsequent boom of generative AI chatbots. Published on the „The Startup“ medium.com publication with +8 million monthly readers:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/a-beginners-guide-to-ai-product-management-eda63ab86db5&#34;&gt;https://medium.com/swlh/a-beginners-guide-to-ai-product-management-eda63ab86db5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Measure AI Product Performance the Right Way</title>
-      <link>https://example.org/posts/how-to-measure-ai-product-performance-the-right-way/</link>
+      <link>https://sischreiber.com/posts/how-to-measure-ai-product-performance-the-right-way/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/how-to-measure-ai-product-performance-the-right-way/</guid>
+      <guid>https://sischreiber.com/posts/how-to-measure-ai-product-performance-the-right-way/</guid>
       <description>&lt;p&gt;AI/machine learning products are data-driven, but paradoxically their impact is not easily quantifiable. My approaches to this on “The Startup”, a medium.com publication with +8 million monthly readers:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&#34;&gt;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://example.org/about/</link>
+      <link>https://sischreiber.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://sischreiber.com/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://example.org/data/</link>
+      <link>https://sischreiber.com/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/data/</guid>
+      <guid>https://sischreiber.com/data/</guid>
       <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
 &lt;p&gt;Personal data (usually referred to just as „data“ below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.&lt;/p&gt;
 &lt;p&gt;Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the „GDPR“), „processing“ refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Imprint</title>
-      <link>https://example.org/imprint/</link>
+      <link>https://sischreiber.com/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/imprint/</guid>
+      <guid>https://sischreiber.com/imprint/</guid>
       <description>&lt;p&gt;Angaben gem. § 5 TMG und § 55 II RStV:&lt;/p&gt;
 &lt;p&gt;Simon Schreiber, Naupliastr. 118, 81545 München&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:simon@sischreiber.com&#34;&gt;simon@sischreiber.com&lt;/a&gt;&lt;/p&gt;</description>
