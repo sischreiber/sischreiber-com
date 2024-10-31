@@ -23,10 +23,10 @@
     </item>
     <item>
       <title>Headless CMS Pitfalls</title>
-      <link>https://sischreiber.com/posts/what-they-dont-tell-you-about-headless-cms/</link>
+      <link>https://sischreiber.com/posts/headless-cms-pitfalls/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/what-they-dont-tell-you-about-headless-cms/</guid>
-      <description>&lt;p&gt;Headless CMS are great, especially in a cloud native stack. As is often the case, vendors&amp;rsquo; product marketing only mentions the advantages. After two headless CMS projects, I have summarized the pitfalls to watch out for on HackerNoon:&lt;/p&gt;
+      <guid>https://sischreiber.com/posts/headless-cms-pitfalls/</guid>
+      <description>&lt;p&gt;Headless CMS offer numerous advantages over traditional monolithic CMS, especially in a cloud-native stack. As is often the case, vendors&amp;rsquo; product marketing only mentions the advantages. After two headless CMS projects, I have summarized the pitfalls to watch out for on HackerNoon:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&#34;&gt;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://sischreiber.com/posts/8-algorithms-to-build-machine-learning-products/</guid>
       <description>&lt;p&gt;For many, mathematical statistics was a dry subject matter at school and university. Without reference to reality. Well, then AI/machine learning products came along and linear regression suddenly became fun:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&#34;&gt;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/8-algorithms-to-build-machine-learning-products-36695241682f&#34;&gt;https://medium.com/swlh/8-algorithms-to-build-machine-learning-products-36695241682f&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Beginners Guide to AI Product Management</title>
