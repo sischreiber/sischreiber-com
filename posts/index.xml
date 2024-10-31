@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6 Timeless Product Management Insights From Engineering Leaders</title>
+      <link>https://sischreiber.com/posts/6-timeless-product-management-insights-from-engineering-leaders/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://sischreiber.com/posts/6-timeless-product-management-insights-from-engineering-leaders/</guid>
+      <description>&lt;p&gt;Software engineers don’t go to product managers to understand how to build a software application. But when engineers start sharing their knowledge about product, there is often something in those words. Especially when the authors have left a footprint in the tech industry.&lt;/p&gt;
+&lt;h2 id=&#34;joel-spolsky-on-the-worst-possible-strategic-mistake&#34;&gt;Joel Spolsky on the Worst Possible Strategic Mistake&lt;/h2&gt;
+&lt;p&gt;Joel Spolsky is one of the co-founders of Stack Overflow. Although he has hardly posted on &amp;ldquo;Joel on Software&amp;rdquo; for years, there are several timeless articles worth reading. One of them is &lt;a href=&#34;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&#34;&gt;“Things You Should Never Do, Part I”&lt;/a&gt; from 2000. It is about a specific strategic mistake in the tech industry and why the cause lies in the rule of thumb that code is harder to read than to write.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Advantages of Declarative Over Imperative User Stories</title>
       <link>https://sischreiber.com/posts/the-advantages-of-declarative-user-stories/</link>
