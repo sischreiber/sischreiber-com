@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Simon Schreiber | Product Management Consultant</title>
-    <link>https://sischreiber.com/posts/</link>
+    <link>https://www.sischreiber.com/posts/</link>
     <description>Recent content in Posts on Simon Schreiber | Product Management Consultant</description>
     <image>
       <title>Simon Schreiber | Product Management Consultant</title>
-      <url>https://sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6 Timeless Product Management Insights From Engineering Leaders</title>
-      <link>https://sischreiber.com/posts/pe/</link>
+      <link>https://www.sischreiber.com/posts/pe/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/pe/</guid>
+      <guid>https://www.sischreiber.com/posts/pe/</guid>
       <description>&lt;p&gt;Software engineers don’t go to product managers to understand how to build a software application. But when engineers start sharing their knowledge about product, there is often something in those words. Especially when the authors have left a footprint in the tech industry.&lt;/p&gt;
 &lt;h2 id=&#34;joel-spolsky-on-the-worst-possible-strategic-mistake&#34;&gt;Joel Spolsky on the Worst Possible Strategic Mistake&lt;/h2&gt;
 &lt;p&gt;Joel Spolsky is one of the co-founders of Stack Overflow. Although he has hardly posted on &amp;ldquo;Joel on Software&amp;rdquo; for years, there are several timeless articles worth reading. One of them is &lt;a href=&#34;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&#34;&gt;“Things You Should Never Do, Part I”&lt;/a&gt; from 2000. It is about a specific strategic mistake in the tech industry and why the cause lies in the rule of thumb that code is harder to read than to write.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Advantages of Declarative Over Imperative User Stories</title>
-      <link>https://sischreiber.com/posts/declarative/</link>
+      <link>https://www.sischreiber.com/posts/declarative/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/declarative/</guid>
+      <guid>https://www.sischreiber.com/posts/declarative/</guid>
       <description>&lt;p&gt;Mind the Product published my article about declarative instead of imperative user stories. In summary, it is about how the declarative style has a positive impact on team collaboration and ultimately on the product.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&#34;&gt;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Headless CMS Pitfalls</title>
-      <link>https://sischreiber.com/posts/cms/</link>
+      <link>https://www.sischreiber.com/posts/cms/</link>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/cms/</guid>
+      <guid>https://www.sischreiber.com/posts/cms/</guid>
       <description>&lt;p&gt;Headless CMS offer numerous advantages over traditional monolithic CMS, especially in a cloud-native stack. As is often the case, vendors&amp;rsquo; product marketing only mentions the advantages. After two headless CMS projects, I have summarized the pitfalls to watch out for on HackerNoon:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&#34;&gt;https://hackernoon.com/what-they-dont-tell-you-about-headless-cms&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How Much a Sprint Costs</title>
-      <link>https://sischreiber.com/posts/sprint/</link>
+      <link>https://www.sischreiber.com/posts/sprint/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/sprint/</guid>
+      <guid>https://www.sischreiber.com/posts/sprint/</guid>
       <description>&lt;p&gt;Sprints in Scrum need to be planned conscientiously. The personnel costs of an average sprint are easily in the five-digit range. Published on the Product Coalition, one of the largest product management communities:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://productcoalition.com/the-economics-of-sprint-planning-b20082d5e24e&#34;&gt;https://productcoalition.com/the-economics-of-sprint-planning-b20082d5e24e&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Create a Portfolio Website: A Step-by-Step Process With Examples</title>
-      <link>https://sischreiber.com/posts/portfolio/</link>
+      <link>https://www.sischreiber.com/posts/portfolio/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/portfolio/</guid>
+      <guid>https://www.sischreiber.com/posts/portfolio/</guid>
       <description>&lt;p&gt;How I built my previous portfolio website with Hugo static site generator and hosted it on GitHub. The nice thing about this setup is that there are no costs other than the domain. My site looks different now but the setup is identical:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/the-kickstarter/how-to-create-a-product-portfolio-website-with-hugo-and-github-28daa950939c&#34;&gt;https://medium.com/the-kickstarter/how-to-create-a-product-portfolio-website-with-hugo-and-github-28daa950939c&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Product Backlog: Guidelines and Best Practices</title>
-      <link>https://sischreiber.com/posts/backlog/</link>
+      <link>https://www.sischreiber.com/posts/backlog/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/backlog/</guid>
+      <guid>https://www.sischreiber.com/posts/backlog/</guid>
       <description>&lt;p&gt;The best practices I have acquired over time for setting up and managing a product backlog. Published on &amp;ldquo;Bootcamp&amp;rdquo;, a collection of resources and opinion pieces about UX, UI and product management on medium.com:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&#34;&gt;https://medium.com/design-bootcamp/product-backlog-guidelines-and-best-practices-f52d1e12c1e5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Than Data: How to Understand and Measure AI Products</title>
-      <link>https://sischreiber.com/posts/data/</link>
+      <link>https://www.sischreiber.com/posts/data/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/data/</guid>
+      <guid>https://www.sischreiber.com/posts/data/</guid>
       <description>&lt;p&gt;Written before the GenAI boom with a focus on quantifying AI product development. Published on Outvise, one of the leading marketplaces for business tech experts present in more than 40 countries:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.outvise.com/how-understand-and-measure-ai-products/&#34;&gt;https://blog.outvise.com/how-understand-and-measure-ai-products/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>8 Algorithms to Build Machine Learning Products</title>
-      <link>https://sischreiber.com/posts/algorithms/</link>
+      <link>https://www.sischreiber.com/posts/algorithms/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/algorithms/</guid>
+      <guid>https://www.sischreiber.com/posts/algorithms/</guid>
       <description>&lt;p&gt;For many, mathematical statistics was a dry subject matter at school and university. Without reference to reality. Well, then AI/machine learning products came along and linear regression suddenly became fun:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/8-algorithms-to-build-machine-learning-products-36695241682f&#34;&gt;https://medium.com/swlh/8-algorithms-to-build-machine-learning-products-36695241682f&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Beginners Guide to AI Product Management</title>
-      <link>https://sischreiber.com/posts/ai/</link>
+      <link>https://www.sischreiber.com/posts/ai/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/ai/</guid>
+      <guid>https://www.sischreiber.com/posts/ai/</guid>
       <description>&lt;p&gt;Written before the market entry of ChatGTP and the subsequent boom of generative AI chatbots. Published on the „The Startup“ medium.com publication with +8 million monthly readers:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/a-beginners-guide-to-ai-product-management-eda63ab86db5&#34;&gt;https://medium.com/swlh/a-beginners-guide-to-ai-product-management-eda63ab86db5&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Measure AI Product Performance the Right Way</title>
-      <link>https://sischreiber.com/posts/performance/</link>
+      <link>https://www.sischreiber.com/posts/performance/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://sischreiber.com/posts/performance/</guid>
+      <guid>https://www.sischreiber.com/posts/performance/</guid>
       <description>&lt;p&gt;AI/machine learning products are data-driven, but paradoxically their impact is not easily quantifiable. My approaches to this on “The Startup”, a medium.com publication with +8 million monthly readers:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&#34;&gt;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
