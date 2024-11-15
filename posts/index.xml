@@ -11,10 +11,28 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>6 Timeless Product Management Insights From Engineering Leaders</title>
+      <title>Why Saying No Has Become an Unhealthy Habit in Product Management</title>
+      <link>https://www.sischreiber.com/posts/yes/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/yes/</guid>
+      <description>&lt;p&gt;Gatekeepers say &lt;em&gt;no&lt;/em&gt; to everything. Proxies give a yes to every request. How do you find the right balance?&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-with-saying-_no_&#34;&gt;The Problem With Saying &lt;em&gt;No&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;There are hundreds of articles online about how and why product managers should say &lt;em&gt;no&lt;/em&gt;. In this context, negating refers to stakeholder requests that aim to change the scope of a product.&lt;/p&gt;
+&lt;p&gt;In the short term, product managers get some breathing room by rejecting requests. A frequently encountered quote comes from Warren Buffett: Saying &lt;em&gt;no&lt;/em&gt; to almost everything is a characteristic of successful people. This may apply to many professions. But also if your focus is on user-driven products?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Mind the Product] The Irony of Product-Led Growth: How Adding More Can Slow You Down</title>
+      <link>https://www.sischreiber.com/posts/subtraction/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/subtraction/</guid>
+      <description>&lt;p&gt;Glad to have my article on &lt;em&gt;Mind the Product&lt;/em&gt; where I attempt to explain why we have a bias toward increasing the scope of our products, even though evidence suggests that subtracting features can increase the overall value for users, customers and the business.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&#34;&gt;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>6 Timeless Product Insights From Engineering Leaders</title>
       <link>https://www.sischreiber.com/posts/pe/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/pe/</guid>
@@ -23,11 +41,11 @@
 &lt;p&gt;Joel Spolsky is one of the co-founders of Stack Overflow. Although he has hardly posted on &amp;ldquo;Joel on Software&amp;rdquo; for years, there are several timeless articles worth reading. One of them is &lt;a href=&#34;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&#34;&gt;“Things You Should Never Do, Part I”&lt;/a&gt; from 2000. It is about a specific strategic mistake in the tech industry and why the cause lies in the rule of thumb that code is harder to read than to write.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Advantages of Declarative Over Imperative User Stories</title>
+      <title>[Mind the Product] The Advantages of Declarative Over Imperative User Stories</title>
       <link>https://www.sischreiber.com/posts/declarative/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/declarative/</guid>
-      <description>&lt;p&gt;Mind the Product published my article about declarative instead of imperative user stories. In summary, it is about how the declarative style has a positive impact on team collaboration and ultimately on the product.&lt;/p&gt;
+      <description>&lt;p&gt;How writing declaratively improves team collaboration and ultimately the product.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&#34;&gt;https://www.mindtheproduct.com/the-advantages-of-declarative-user-stories/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>

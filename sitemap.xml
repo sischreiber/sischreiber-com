@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sischreiber.com/posts/pe/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.sischreiber.com/posts/</loc>
-    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sischreiber.com/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sischreiber.com/posts/yes/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sischreiber.com/posts/subtraction/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sischreiber.com/posts/pe/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sischreiber.com/projects/</loc>
