@@ -120,13 +120,6 @@
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&#34;&gt;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About Me</title>
-      <link>https://www.sischreiber.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.sischreiber.com/about/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Data</title>
       <link>https://www.sischreiber.com/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +136,16 @@
       <description>&lt;p&gt;Angaben gem. § 5 TMG und § 55 II RStV:&lt;/p&gt;
 &lt;p&gt;Simon Schreiber, Naupliastr. 118, 81545 München&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:simon@sischreiber.com&#34;&gt;simon@sischreiber.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What I Do</title>
+      <link>https://www.sischreiber.com/i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/i/</guid>
+      <description>&lt;h2 id=&#34;product-management&#34;&gt;Product Management&lt;/h2&gt;
+&lt;p&gt;As a freelance product manager, I help companies build technology-powered products that deliver meaningful user value and achieve business impact.&lt;/p&gt;
+&lt;p&gt;I prioritize a customer-first mindset, supported by data and a clear understanding of the market. Collaborating with engineers, designers and company leaders to set clear goals and iterate on solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sischreiber.com/projects/&#34;&gt;I’ve held product roles&lt;/a&gt; at organizations such as waipu.tv, jameda, ProSiebenSat1, AutoScout24 and Bundesliga, delivering value through hands-on product work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
