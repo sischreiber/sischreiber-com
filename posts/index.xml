@@ -11,17 +11,16 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Saying No Has Become an Unhealthy Habit in Product Management</title>
-      <link>https://www.sischreiber.com/posts/yes/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.sischreiber.com/posts/yes/</guid>
-      <description>&lt;p&gt;Gatekeepers say &lt;em&gt;no&lt;/em&gt; to everything. Proxies give a yes to every request. How do you find the right balance?&lt;/p&gt;
-&lt;h2 id=&#34;the-problem-with-saying-_no_&#34;&gt;The Problem With Saying &lt;em&gt;No&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;There are hundreds of articles online about how and why product managers should say &lt;em&gt;no&lt;/em&gt;. In this context, negating refers to stakeholder requests that aim to change the scope of a product.&lt;/p&gt;
-&lt;p&gt;In the short term, product managers get some breathing room by rejecting requests. A frequently encountered quote comes from Warren Buffett: Saying &lt;em&gt;no&lt;/em&gt; to almost everything is a characteristic of successful people. This may apply to many professions. But also if your focus is on user-driven products?&lt;/p&gt;</description>
+      <title>Product Repo: A Curated Collection of Product Management Resources</title>
+      <link>https://www.sischreiber.com/posts/product-repo/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/product-repo/</guid>
+      <description>&lt;p&gt;Product Repo is my personal, curated collection of product management articles that I find worth reading. The list is organized into categories such as product-led growth, strategy, leadership, product management fundamentals and many more.&lt;/p&gt;
+&lt;p&gt;You can find it here: &lt;a href=&#34;https://github.com/sischreiber/product-repo/&#34;&gt;https://github.com/sischreiber/product-repo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It’s essentially a GitHub readme file in my rather sparse repo, which I update sporadically whenever I come across noteworthy articles. Product Repo is inspired by &lt;a href=&#34;https://github.com/ProductHired/open-product-management&#34;&gt;https://github.com/ProductHired/open-product-management&lt;/a&gt; which unfortunately hasn&amp;rsquo;t been updated in several years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Mind the Product] The Irony of Product-Led Growth: How Adding More Can Slow You Down</title>
@@ -39,6 +38,16 @@
       <description>&lt;p&gt;Software engineers don’t go to product managers to understand how to build a software application. But when engineers start sharing their knowledge about product, there is often something in those words. Especially when the authors have left a footprint in the tech industry.&lt;/p&gt;
 &lt;h2 id=&#34;joel-spolsky-on-the-worst-possible-strategic-mistake&#34;&gt;Joel Spolsky on the Worst Possible Strategic Mistake&lt;/h2&gt;
 &lt;p&gt;Joel Spolsky is one of the co-founders of Stack Overflow. Although he has hardly posted on &amp;ldquo;Joel on Software&amp;rdquo; for years, there are several timeless articles worth reading. One of them is &lt;a href=&#34;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&#34;&gt;“Things You Should Never Do, Part I”&lt;/a&gt; from 2000. It is about a specific strategic mistake in the tech industry and why the cause lies in the rule of thumb that code is harder to read than to write.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Saying No Has Become an Unhealthy Habit in Product Management</title>
+      <link>https://www.sischreiber.com/posts/yes/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/yes/</guid>
+      <description>&lt;p&gt;Gatekeepers say &lt;em&gt;no&lt;/em&gt; to everything. Proxies give a yes to every request. How do you find the right balance?&lt;/p&gt;
+&lt;h2 id=&#34;the-problem-with-saying-_no_&#34;&gt;The Problem With Saying &lt;em&gt;No&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;There are hundreds of articles online about how and why product managers should say &lt;em&gt;no&lt;/em&gt;. In this context, negating refers to stakeholder requests that aim to change the scope of a product.&lt;/p&gt;
+&lt;p&gt;In the short term, product managers get some breathing room by rejecting requests. A frequently encountered quote comes from Warren Buffett: Saying &lt;em&gt;no&lt;/em&gt; to almost everything is a characteristic of successful people. This may apply to many professions. But also if your focus is on user-driven products?&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Mind the Product] The Advantages of Declarative Over Imperative User Stories</title>
