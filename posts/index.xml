@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Split Cross-Functional Product Development Teams</title>
+      <link>https://www.sischreiber.com/posts/teams/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/teams/</guid>
+      <description>&lt;p&gt;What is the best way to split a cross-functional product development team? Here are six approaches with their respective pros and cons.&lt;/p&gt;
+&lt;h2 id=&#34;1-feature-teams&#34;&gt;1. Feature Teams&lt;/h2&gt;
+&lt;p&gt;A cross-functional team with the end-to-end ownership of a feature. For example, an e-commerce checkout process or product recos.&lt;/p&gt;
+&lt;p&gt;The members of the feature team work directly on all code bases required to further develop the feature, even if they are not responsible for that part of the software system themselves.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Product Repo: A Curated Collection of Product Management Resources</title>
       <link>https://www.sischreiber.com/posts/product-repo/</link>
