@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team Topologies in a Nutshell</title>
+      <link>https://www.sischreiber.com/posts/tt/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/tt/</guid>
+      <description>&lt;p&gt;With Team Topologies, Matthew Skelton and Manuel Pais aim to reduce the complexity of tech organizations to four team types and three modes of interaction.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The end goal is to help teams produce software that aligns with customer needs and is easier to build, run, and own. (Skelton &amp;amp; Pais)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;framework-influences&#34;&gt;Framework-Influences&lt;/h2&gt;
+&lt;p&gt;One of the central theses is that software architectures and the way teams interact are closely connected. This can be attributed to Conway’s Law, which states that an organization’s communication structures influence its software architecture.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Split Cross-Functional Product Development Teams</title>
       <link>https://www.sischreiber.com/posts/teams/</link>
