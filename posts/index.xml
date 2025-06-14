@@ -10,9 +10,18 @@
       <link>https://www.sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Understanding Transformer Architecture Helps Craft Better LLM Prompts</title>
+      <link>https://www.sischreiber.com/posts/llm/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/llm/</guid>
+      <description>&lt;p&gt;It is 2025 and AI is well beyond the experimental phase. It is now embedded in the daily workflows of product teams. Language models assist with drafting OKRs, identifying gaps in strategy, screening interview responses, analyzing churn data and generating test scenarios from acceptance criteria. Most of these tasks are powered by large language models (LLMs).&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-during-prompting&#34;&gt;What Happens During Prompting&lt;/h2&gt;
+&lt;p&gt;When you type a prompt into ChatGPT or Claude, the model replies with something fluent and useful. But what actually happens inside? An LLM is a deep neural network trained on vast amounts of text. It generates responses by predicting one token at a time. This entire process runs on the Transformer architecture, the foundation behind models like GPT-4, Claude and Gemini.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Team Topologies in a Nutshell</title>
       <link>https://www.sischreiber.com/posts/tt/</link>

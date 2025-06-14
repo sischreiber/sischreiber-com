@@ -10,9 +10,18 @@
       <link>https://www.sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Understanding Transformer Architecture Helps Craft Better LLM Prompts</title>
+      <link>https://www.sischreiber.com/posts/llm/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/llm/</guid>
+      <description>&lt;p&gt;It is 2025 and AI is well beyond the experimental phase. It is now embedded in the daily workflows of product teams. Language models assist with drafting OKRs, identifying gaps in strategy, screening interview responses, analyzing churn data and generating test scenarios from acceptance criteria. Most of these tasks are powered by large language models (LLMs).&lt;/p&gt;
+&lt;h2 id=&#34;what-happens-during-prompting&#34;&gt;What Happens During Prompting&lt;/h2&gt;
+&lt;p&gt;When you type a prompt into ChatGPT or Claude, the model replies with something fluent and useful. But what actually happens inside? An LLM is a deep neural network trained on vast amounts of text. It generates responses by predicting one token at a time. This entire process runs on the Transformer architecture, the foundation behind models like GPT-4, Claude and Gemini.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Team Topologies in a Nutshell</title>
       <link>https://www.sischreiber.com/posts/tt/</link>
@@ -66,12 +75,12 @@
       <link>https://www.sischreiber.com/projects/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/projects/</guid>
-      <description>&lt;h3 id=&#34;ringier-sports-media-group--product-manager&#34;&gt;&lt;strong&gt;Ringier Sports Media Group&lt;/strong&gt; – Product Manager&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Since 2024 | Switzerland&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Currently building software products for the Ringier Sports Media Group, a leading network of international sports media brands. The group delivers premium sports content to millions of fans worldwide.&lt;/p&gt;
-&lt;h3 id=&#34;waiputv--product-manager-smart-tv&#34;&gt;&lt;strong&gt;waipu.tv&lt;/strong&gt; – Product Manager Smart TV&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;2022 - 2024 | Munich&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;waipu.tv is one of Germany’s leading IPTV providers. As a freelance product manager, I drove the development and growth of waipu.tv apps on: Android TV, waipu.tv 4K Stick, Roku, waipu.tv Hybrid Stick, LG and Samsung. This broadened the platform reach and accelerated the subscription growth.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;waiputv--product-manager-android-tv&#34;&gt;&lt;strong&gt;waipu.tv&lt;/strong&gt; – Product Manager Android TV&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Since 2025 | Munich&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Currently building and shipping Android TV apps at waipu.tv, one of Germany’s leading TV streaming apps.&lt;/p&gt;
+&lt;h3 id=&#34;ringier-sports-media-group--product-manager&#34;&gt;&lt;strong&gt;Ringier Sports Media Group&lt;/strong&gt; – Product Manager&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2024 - 2025 | Switzerland&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Product discovery and website relaunches as a freelance product manager for the Ringier Sports Media Group, a leading network of international sports media brands. The group delivers premium sports content to millions of fans worldwide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Saying No</title>
