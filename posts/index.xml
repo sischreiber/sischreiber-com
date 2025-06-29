@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Organizing for AI: Structures That Scale</title>
+      <link>https://www.sischreiber.com/posts/org/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/org/</guid>
+      <description>&lt;p&gt;The challenge with AI isn’t just the technology. Often it’s how organizations are structured around it. Whether the work involves building internal AI infrastructure or shipping &lt;a href=&#34;https://www.sischreiber.com/posts/ai/&#34;&gt;user-facing AI features&lt;/a&gt;, the ability to ship depends on how teams are set up and work together.&lt;/p&gt;
+&lt;p&gt;That’s where &lt;a href=&#34;https://www.sischreiber.com/posts/tt/&#34;&gt;Team Topologies&lt;/a&gt; comes in because if the org chart is a mess, no amount of &lt;a href=&#34;https://www.sischreiber.com/posts/algorithms/&#34;&gt;machine learning&lt;/a&gt; will save it. The following four patterns outline how teams can be organized to support sustainable and effective use of AI.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Understanding Transformer Architecture Helps Craft Better LLM Prompts</title>
       <link>https://www.sischreiber.com/posts/llm/</link>
@@ -149,7 +157,7 @@
       <link>https://www.sischreiber.com/posts/performance/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/performance/</guid>
-      <description>&lt;p&gt;AI/machine learning products are data-driven, but paradoxically their impact is not easily quantifiable. My approaches to this on “The Startup”:&lt;/p&gt;
+      <description>&lt;p&gt;AI/machine learning products are data-driven, but paradoxically their impact is not easily quantifiable. My thoughts to this on “The Startup”:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&#34;&gt;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
