@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The UX of Remote Controls</title>
+      <link>https://www.sischreiber.com/posts/rcu/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/rcu/</guid>
+      <description>&lt;p&gt;A remote control once just changed channels and volume. Today, when more than two thirds of Europeans use streaming services, the remote is no longer an accessory but the first touchpoint between the viewer and the product. And when that first touchpoint fails, it drags down the overall product experience.&lt;/p&gt;
+&lt;h2 id=&#34;learning-from-the-originals&#34;&gt;Learning from the Originals&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.sischreiber.com/img/zenith.png&#34; alt=&#34;Zenith Space Commander 600&#34;  /&gt;
+
+&lt;em&gt;Zenith Space Commander 600&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Early remotes like Zenith&amp;rsquo;s Space Commander from 1956 worked through simplicity. Each press made a click that confirmed the action. There was no latency and no guessing.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Organizing for AI: Structures That Scale</title>
       <link>https://www.sischreiber.com/posts/org/</link>
