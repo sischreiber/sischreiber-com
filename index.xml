@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Good Writing Be Measured?</title>
+      <link>https://www.sischreiber.com/posts/readability/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/readability/</guid>
+      <description>&lt;p&gt;Paul Graham, Silicon Valley investor and an essayist worth reading, notes that there are &lt;a href=&#34;https://paulgraham.com/goodwriting.html&#34;&gt;two senses in which writing can be good&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It can sound good, and the ideas can be right.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The first one might be something you can actually calculate, so I gave it a try and vibecoded a small tool: &lt;a href=&#34;https://readability-analyzer.vercel.app/&#34;&gt;https://readability-analyzer.vercel.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You paste in English or German text and get back a set of readability scores. No AI, no backend, nothing leaves the browser.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The UX of Remote Controls</title>
       <link>https://www.sischreiber.com/posts/rcu/</link>
@@ -78,7 +90,7 @@
       <link>https://www.sischreiber.com/posts/subtraction/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/subtraction/</guid>
-      <description>&lt;p&gt;Glad to have my article on &lt;em&gt;Mind the Product&lt;/em&gt; where I attempt to explain why we have a bias toward increasing the scope of our products, even though evidence suggests that subtracting features can increase the overall value for users, customers and the business.&lt;/p&gt;
+      <description>&lt;p&gt;Glad to have my article on &lt;em&gt;Mind the Product&lt;/em&gt; where I explain why we have a bias toward increasing the scope of our products, even though evidence suggests that subtracting features can increase the overall value for users, customers and the business.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&#34;&gt;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -96,8 +108,8 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/projects/</guid>
       <description>&lt;h3 id=&#34;waiputv--product-manager-android-tv&#34;&gt;&lt;strong&gt;waipu.tv&lt;/strong&gt; – Product Manager Android TV&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Since 2025 | Munich&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Currently building and shipping Android TV apps at waipu.tv, one of Germany’s leading TV streaming apps.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2025 | Munich&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Built and shipped Android TV apps at waipu.tv, one of Germany&amp;rsquo;s leading TV streaming apps.&lt;/p&gt;
 &lt;h3 id=&#34;ringier-sports-media-group--product-manager&#34;&gt;&lt;strong&gt;Ringier Sports Media Group&lt;/strong&gt; – Product Manager&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;2024 - 2025 | Switzerland&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Product discovery and website relaunches as a freelance product manager for the Ringier Sports Media Group, a leading network of international sports media brands. The group delivers premium sports content to millions of fans worldwide.&lt;/p&gt;</description>
@@ -189,10 +201,11 @@
       <link>https://www.sischreiber.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/about/</guid>
-      <description>&lt;p&gt;I’m a freelance product manager based in Munich, Germany. For over a decade, I’ve been helping organizations, from start-ups to established brands, transform ideas into commercial software products. I enjoy working on products end to end, from ideation all the way to launch.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m Head of Product Experience at waipu.tv and a Freelance Product Manager based in Munich, Germany.&lt;/p&gt;
+&lt;p&gt;For over a decade, I&amp;rsquo;ve worked as an independent consultant helping organizations, from start-ups to established brands, transform ideas into commercial software products. I enjoy working on products end to end, from ideation all the way to launch.&lt;/p&gt;
 &lt;p&gt;Industry-wise, my expertise includes media, e-commerce, marketplaces, video streaming and sports. Product-wise, I specialize in:&lt;/p&gt;
 &lt;h2 id=&#34;product-management&#34;&gt;Product Management&lt;/h2&gt;
-&lt;p&gt;As a product manager or product owner I‘m helping organizations to lead products from conception to launch. I focus on product discovery, a clear product vision, evidence-based decision making and a close collaboration with design and engineering to ship products that drive long-term growth.&lt;/p&gt;</description>
+&lt;p&gt;As a Product Manager or Product Owner, I help organizations lead products from conception to launch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data</title>

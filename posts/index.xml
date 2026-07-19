@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Good Writing Be Measured?</title>
+      <link>https://www.sischreiber.com/posts/readability/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/readability/</guid>
+      <description>&lt;p&gt;Paul Graham, Silicon Valley investor and an essayist worth reading, notes that there are &lt;a href=&#34;https://paulgraham.com/goodwriting.html&#34;&gt;two senses in which writing can be good&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It can sound good, and the ideas can be right.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The first one might be something you can actually calculate, so I gave it a try and vibecoded a small tool: &lt;a href=&#34;https://readability-analyzer.vercel.app/&#34;&gt;https://readability-analyzer.vercel.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You paste in English or German text and get back a set of readability scores. No AI, no backend, nothing leaves the browser.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The UX of Remote Controls</title>
       <link>https://www.sischreiber.com/posts/rcu/</link>
@@ -78,7 +90,7 @@
       <link>https://www.sischreiber.com/posts/subtraction/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/subtraction/</guid>
-      <description>&lt;p&gt;Glad to have my article on &lt;em&gt;Mind the Product&lt;/em&gt; where I attempt to explain why we have a bias toward increasing the scope of our products, even though evidence suggests that subtracting features can increase the overall value for users, customers and the business.&lt;/p&gt;
+      <description>&lt;p&gt;Glad to have my article on &lt;em&gt;Mind the Product&lt;/em&gt; where I explain why we have a bias toward increasing the scope of our products, even though evidence suggests that subtracting features can increase the overall value for users, customers and the business.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&#34;&gt;https://www.mindtheproduct.com/the-irony-of-product-led-growth/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
