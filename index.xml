@@ -11,10 +11,18 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Can Good Writing Be Measured?</title>
+      <title>Garbage Collection in Product</title>
+      <link>https://www.sischreiber.com/posts/garbage/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/garbage/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s an uncomfortable number, but &lt;a href=&#34;https://www.pendo.io/de-de/pendo-blog/feature-adoption-benchmarking/&#34;&gt;according to Pendo&lt;/a&gt; around 80% of features are barely or never used. They stay in the code, add to the user&amp;rsquo;s cognitive load and slow down shipping anything new.&lt;/p&gt;
+&lt;p&gt;This is exactly where the idea of product garbage collection comes in. Garbage collection is a concept from computer science and it maps surprisingly well onto product development. It does exactly what it promises: it takes out the trash.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Readability Analyzer: Can Good Writing Be Measured?</title>
       <link>https://www.sischreiber.com/posts/readability/</link>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/readability/</guid>
