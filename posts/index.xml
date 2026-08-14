@@ -14,23 +14,23 @@
     <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Garbage Collection in Product</title>
+      <link>https://www.sischreiber.com/posts/garbage/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/garbage/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s an uncomfortable number, but &lt;a href=&#34;https://www.pendo.io/de-de/pendo-blog/feature-adoption-benchmarking/&#34;&gt;according to Pendo&lt;/a&gt; around 80% of features are barely or never used. They stay in the code, add to the user&amp;rsquo;s cognitive load and slow down shipping anything new.&lt;/p&gt;
+&lt;p&gt;This is exactly where the idea of product garbage collection comes in. Garbage collection is a concept from computer science and it maps surprisingly well onto product development. It does exactly what it promises: it takes out the trash.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>I Built a Mechanical Knob That Controls Feature Rollouts</title>
       <link>https://www.sischreiber.com/posts/knob/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.sischreiber.com/posts/knob/</guid>
       <description>&lt;p&gt;I work with Firebase Remote Config to roll features out gradually. And lately I&amp;rsquo;ve been playing with Arduino microcontrollers for fun, small programmable boards you can wire all sorts of things to. So why not connect the two?&lt;/p&gt;
 &lt;p&gt;The result is rollout-knob, a small side project where a physical knob controls a feature&amp;rsquo;s rollout progress, shown live on a web page.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.sischreiber.com/img/rollout-knob-1.jpg&#34; alt=&#34;rollout-knob&#34;  /&gt;
 
 &lt;em&gt;Arduino UNO R4 WiFi, KY-040 rotary encoder, SSD1306 OLED on a breadboard&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Garbage Collection in Product</title>
-      <link>https://www.sischreiber.com/posts/garbage/</link>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.sischreiber.com/posts/garbage/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s an uncomfortable number, but &lt;a href=&#34;https://www.pendo.io/de-de/pendo-blog/feature-adoption-benchmarking/&#34;&gt;according to Pendo&lt;/a&gt; around 80% of features are barely or never used. They stay in the code, add to the user&amp;rsquo;s cognitive load and slow down shipping anything new.&lt;/p&gt;
-&lt;p&gt;This is exactly where the idea of product garbage collection comes in. Garbage collection is a concept from computer science and it maps surprisingly well onto product development. It does exactly what it promises: it takes out the trash.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Readability Analyzer: Can Good Writing Be Measured?</title>
