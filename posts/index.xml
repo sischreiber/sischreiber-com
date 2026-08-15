@@ -28,7 +28,7 @@
       <guid>https://www.sischreiber.com/posts/knob/</guid>
       <description>&lt;p&gt;I work with Firebase Remote Config to roll features out gradually. And lately I&amp;rsquo;ve been playing with Arduino microcontrollers for fun, small programmable boards you can wire all sorts of things to. So why not connect the two?&lt;/p&gt;
 &lt;p&gt;The result is rollout-knob, a small side project where a physical knob controls a feature&amp;rsquo;s rollout progress, shown live on a web page.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.sischreiber.com/img/rollout-knob-1.jpg&#34; alt=&#34;rollout-knob&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.sischreiber.com/img/rollout-knob.jpg&#34; alt=&#34;rollout-knob&#34;  /&gt;
 
 &lt;em&gt;Arduino UNO R4 WiFi, KY-040 rotary encoder, SSD1306 OLED on a breadboard&lt;/em&gt;&lt;/p&gt;</description>
     </item>
