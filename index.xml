@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Simon Schreiber | Product Management Consultant</title>
-    <link>https://www.sischreiber.com/posts/</link>
-    <description>Recent content in Posts on Simon Schreiber | Product Management Consultant</description>
+    <title>Simon Schreiber | Product Management Consultant</title>
+    <link>https://www.sischreiber.com/</link>
+    <description>Recent content on Simon Schreiber | Product Management Consultant</description>
     <image>
       <title>Simon Schreiber | Product Management Consultant</title>
       <url>https://www.sischreiber.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.sischreiber.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Garbage Collection in Product</title>
       <link>https://www.sischreiber.com/posts/garbage/</link>
@@ -122,6 +122,18 @@
 &lt;p&gt;Joel Spolsky is one of the co-founders of Stack Overflow. Although he has hardly posted on &amp;ldquo;Joel on Software&amp;rdquo; for years, there are several timeless articles worth reading. One of them is &lt;a href=&#34;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&#34;&gt;“Things You Should Never Do, Part I”&lt;/a&gt; from 2000. It is about a specific strategic mistake in the tech industry and why the cause lies in the rule of thumb that code is harder to read than to write.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Projects</title>
+      <link>https://www.sischreiber.com/projects/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/projects/</guid>
+      <description>&lt;h3 id=&#34;waiputv--product-manager-android-tv&#34;&gt;&lt;strong&gt;waipu.tv&lt;/strong&gt; – Product Manager Android TV&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2025 | Munich&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Built and shipped Android TV apps at waipu.tv, one of Germany&amp;rsquo;s leading TV streaming apps.&lt;/p&gt;
+&lt;h3 id=&#34;ringier-sports-media-group--product-manager&#34;&gt;&lt;strong&gt;Ringier Sports Media Group&lt;/strong&gt; – Product Manager&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;2024 - 2025 | Switzerland&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Product discovery and website relaunches as a freelance product manager for the Ringier Sports Media Group, a leading network of international sports media brands. The group delivers premium sports content to millions of fans worldwide.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>On Saying No</title>
       <link>https://www.sischreiber.com/posts/no/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
@@ -202,6 +214,45 @@
       <guid>https://www.sischreiber.com/posts/performance/</guid>
       <description>&lt;p&gt;AI/machine learning products are data-driven, but paradoxically their impact is not easily quantifiable. My thoughts to this on “The Startup”:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&#34;&gt;https://medium.com/swlh/how-to-measure-ai-product-performance-the-right-way-2d6791c5f5c3&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://www.sischreiber.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Head of Product Experience at waipu.tv and a Freelance Product Manager based in Munich, Germany.&lt;/p&gt;
+&lt;p&gt;For over a decade, I&amp;rsquo;ve worked as an independent consultant helping organizations, from start-ups to established brands, transform ideas into commercial software products. I enjoy working on products end to end, from ideation all the way to launch.&lt;/p&gt;
+&lt;p&gt;Industry-wise, my expertise includes media, e-commerce, marketplaces, video streaming and sports. Product-wise, I specialize in:&lt;/p&gt;
+&lt;h2 id=&#34;product-management&#34;&gt;Product Management&lt;/h2&gt;
+&lt;p&gt;As a Product Manager or Product Owner, I help organizations lead products from conception to launch.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://www.sischreiber.com/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/data/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;Personal data (usually referred to just as „data“ below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.&lt;/p&gt;
+&lt;p&gt;Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the „GDPR“), „processing“ refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Imprint</title>
+      <link>https://www.sischreiber.com/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/imprint/</guid>
+      <description>&lt;p&gt;Angaben gem. § 5 TMG und § 55 II RStV:&lt;/p&gt;
+&lt;p&gt;Simon Schreiber, Naupliastr. 118, 81545 München&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:simon@sischreiber.com&#34;&gt;simon@sischreiber.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What I Do</title>
+      <link>https://www.sischreiber.com/i/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/i/</guid>
+      <description>&lt;h2 id=&#34;product-management&#34;&gt;Product Management&lt;/h2&gt;
+&lt;p&gt;As a freelance product manager, I help companies build technology-powered products that deliver meaningful user value and achieve business impact.&lt;/p&gt;
+&lt;p&gt;I prioritize a customer-first mindset, supported by data and a clear understanding of the market. Collaborating with engineers, designers and company leaders to set clear goals and iterate on solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sischreiber.com/projects/&#34;&gt;I’ve held product roles&lt;/a&gt; at organizations such as waipu.tv, jameda, ProSiebenSat1, AutoScout24 and Bundesliga, delivering value through hands-on product work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
