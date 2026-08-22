@@ -11,15 +11,15 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.sischreiber.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Garbage Collection in Product</title>
-      <link>https://www.sischreiber.com/posts/garbage/</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.sischreiber.com/posts/garbage/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s an uncomfortable number, but &lt;a href=&#34;https://www.pendo.io/de-de/pendo-blog/feature-adoption-benchmarking/&#34;&gt;according to Pendo&lt;/a&gt; around 80% of features are barely or never used. They stay in the code, add to the user&amp;rsquo;s cognitive load and slow down shipping anything new.&lt;/p&gt;
-&lt;p&gt;This is exactly where the idea of product garbage collection comes in. Garbage collection is a concept from computer science and it maps surprisingly well onto product development. It does exactly what it promises: it takes out the trash.&lt;/p&gt;</description>
+      <title>Organizing for AI: Structures That Scale</title>
+      <link>https://www.sischreiber.com/posts/org/</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/org/</guid>
+      <description>&lt;p&gt;The challenge with AI isn’t just the technology. Often it’s how organizations are structured around it. Whether the work involves building internal AI infrastructure or shipping &lt;a href=&#34;https://www.sischreiber.com/posts/ai/&#34;&gt;user-facing AI features&lt;/a&gt;, the ability to ship depends on how teams are set up and work together.&lt;/p&gt;
+&lt;p&gt;That’s where &lt;a href=&#34;https://www.sischreiber.com/posts/tt/&#34;&gt;Team Topologies&lt;/a&gt; comes in because if the org chart is a mess, no amount of &lt;a href=&#34;https://www.sischreiber.com/posts/algorithms/&#34;&gt;machine learning&lt;/a&gt; will save it. The following four patterns outline how teams can be organized to support sustainable and effective use of AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I Built a Mechanical Knob That Controls Feature Rollouts</title>
@@ -45,6 +45,14 @@
 &lt;p&gt;You paste in English or German text and get back a set of readability scores. No AI, no backend, nothing leaves the browser.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Garbage Collection in Product</title>
+      <link>https://www.sischreiber.com/posts/garbage/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.sischreiber.com/posts/garbage/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s an uncomfortable number, but &lt;a href=&#34;https://www.pendo.io/de-de/pendo-blog/feature-adoption-benchmarking/&#34;&gt;according to Pendo&lt;/a&gt; around 80% of features are barely or never used. They stay in the code, add to the user&amp;rsquo;s cognitive load and slow down shipping anything new.&lt;/p&gt;
+&lt;p&gt;This is exactly where the idea of product garbage collection comes in. Garbage collection is a concept from computer science and it maps surprisingly well onto product development. It does exactly what it promises: it takes out the trash.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The UX of Remote Controls</title>
       <link>https://www.sischreiber.com/posts/rcu/</link>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
@@ -55,14 +63,6 @@
 
 &lt;em&gt;Zenith Space Commander 600&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Early remotes like Zenith&amp;rsquo;s Space Commander from 1956 worked through simplicity. Each press made a click that confirmed the action. There was no latency and no guessing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Organizing for AI: Structures That Scale</title>
-      <link>https://www.sischreiber.com/posts/org/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.sischreiber.com/posts/org/</guid>
-      <description>&lt;p&gt;The challenge with AI isn’t just the technology. Often it’s how organizations are structured around it. Whether the work involves building internal AI infrastructure or shipping &lt;a href=&#34;https://www.sischreiber.com/posts/ai/&#34;&gt;user-facing AI features&lt;/a&gt;, the ability to ship depends on how teams are set up and work together.&lt;/p&gt;
-&lt;p&gt;That’s where &lt;a href=&#34;https://www.sischreiber.com/posts/tt/&#34;&gt;Team Topologies&lt;/a&gt; comes in because if the org chart is a mess, no amount of &lt;a href=&#34;https://www.sischreiber.com/posts/algorithms/&#34;&gt;machine learning&lt;/a&gt; will save it. The following four patterns outline how teams can be organized to support sustainable and effective use of AI.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transformer Architecture and LLM Prompts</title>
